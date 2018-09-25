@@ -1,0 +1,25 @@
+_repo: Wichita_57620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harvey, Frederick L. (Frederick Loviad)
+    aliases:
+    - Harvey, F. L. (Frederick Loviad)
+    - Harvey, Frederick Loviad
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '38903'
+    url: http://www.gutenberg.org/2009/agents/38903
+description: ''
+gutenberg_issued: '2018-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wichita
+url: http://www.gutenberg.org/ebooks/57620
